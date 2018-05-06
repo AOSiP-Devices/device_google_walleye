@@ -1,0 +1,2 @@
+add_lunch_combo aosip_walleye-userdebug
+add_lunch_combo aosip_walleye-user
