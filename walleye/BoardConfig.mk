@@ -40,3 +40,5 @@ TARGET_RECOVERY_UI_LIB := \
     librecovery_ui_walleye \
     libbootloader_message \
     libfstab
+
+BOARD_PREBUILT_VENDORIMAGE := vendor/images/walleye/vendor.img
